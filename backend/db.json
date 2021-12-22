@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mouse Razer Gaming",
+      "price": 199.90
+    },
+    {
+      "id": 2,
+      "name": "Teclado Mecânico Red Dragon",
+      "price": 249.90
+    },
+    {
+      "id": 3,
+      "name": "Microfone Direcional Gamer RGB",
+      "price": 899.90
+    },
+    {
+      "id": 4,
+      "name": "Monitor 27 4K Ultra wide",
+      "price": 2799.90
+    }
+  ]
+}
